@@ -18,7 +18,8 @@ This **HR Analytics Report** provides a **data-driven analysis of employee attri
 - **`HR_Analytics_Report.pbix`** – Power BI report file containing:  
   - **Data model & relationships**  
   - **DAX calculations & KPIs**  
-  - **Interactive dashboards**  
+  - **Interactive dashboards**
+- 📸 **Screenshots of report pages** for quick reference   
 
 ## 🛠 Tools Used  
 - **Power BI**  
